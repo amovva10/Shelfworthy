@@ -18,10 +18,18 @@ This repo contains the backend modules I built and worked on:
 - Cleaned database schema by removing unused models and fixing constraint violations
 - Wrote unit tests to verify DB integrity and genre classification accuracy
 
-## Tech Stack
+## Tools Used
 - **FastAPI** – Web framework
 - **SQLAlchemy** – ORM for Python
 - **PostgreSQL** – Relational DB
 - **Pytest** – Testing framework
 - **Spacy** – For Named Entity Recognition (NER)
+
+![homepage -sw](https://github.com/user-attachments/assets/5ff74f9c-1b71-48b3-86cd-6144f5443fec)
+
+![sign in - sw](https://github.com/user-attachments/assets/ade2e8ad-bf69-4cc0-ab0a-ac3e0aa5ddbe)
+
+![skeets - sw](https://github.com/user-attachments/assets/9c5b84f8-5b62-4949-a710-e2d210239aef)
+
+![shelf - sw](https://github.com/user-attachments/assets/68667589-d0a2-48f9-ad43-33c8b53727fb)
 
